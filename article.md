@@ -16,9 +16,9 @@ But as the chart above shows, the actual returns achieved by the industry's larg
 ### The Long Arc of Returns
 The chart tracks the ROCE for ExxonMobil, BP, TotalEnergies, Shell, and Chevron since the early 1990s. Several themes emerge:
 
-- **Volatility is the norm**. Returns swing sharply in response to oil price cycles. The spikes in the 2000s reflect booming crude prices, while the troughs in 2009 and 2020 align with global crises.
-- **Leaders change over time**. TotalEnergies currently sits at the top with a 15.2% ROCE, slightly above ExxonMobil at 14.0%. BP lags far behind at 6.0%, reflecting weaker capital discipline and portfolio challenges.
-- **The long-term average clusters near the hurdle rate**. Despite wild swings, most companies gravitate toward the 10--15% range over time. This underlines how tightly tied capital returns are to industry structure and commodity prices.
+- Volatility is the norm. Returns swing sharply in response to oil price cycles. The spikes in the 2000s reflect booming crude prices, while the troughs in 2009 and 2020 align with global crises.
+- Leaders change over time. TotalEnergies currently sits at the top with a 15.2% ROCE, slightly above ExxonMobil at 14.0%. BP lags far behind at 6.0%, reflecting weaker capital discipline and portfolio challenges.
+- The long-term average clusters near the hurdle rate. Despite wild swings, most companies gravitate toward the 10--15% range over time. This underlines how tightly tied capital returns are to industry structure and commodity prices.
 
 
 ### Why ROCE Matters
