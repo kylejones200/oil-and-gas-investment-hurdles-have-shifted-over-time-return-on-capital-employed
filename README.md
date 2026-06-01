@@ -11,14 +11,7 @@ But as the chart above shows, the actual returns achieved by the industry's larg
 
 The chart tracks the ROCE for ExxonMobil, BP, TotalEnergies, Shell, and Chevron since the early 1990s. Several themes emerge:
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
